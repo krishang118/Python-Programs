@@ -1,0 +1,12 @@
+                                                                            
+Ballpoint Pens = 12
+Ink Pens = 50
+Gel Pens = 50
+
+Flour (in Kgs) = 200
+Basmati Rice (in 5-kg packets) = 50
+Ketchup Bottles = 40
+
+Classmate Regular Notebooks = 150
+Classmate Small Notebooks = 150
+Classmate King Size Notebooks = 20
